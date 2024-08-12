@@ -6,8 +6,8 @@
 	"devDependencies": {
 		"@cloudflare/workers-types": "^4.20230419.0",
 		"@jest/globals": "^29.6.1",
-		"@types/jest": "^29.5.3",
-		"@types/jsonpath": "^0.2.0",
+		"@types/jest": "^29.5.12",
+		"@types/jsonpath": "^0.2.4",
 		"jest-junit": "^16.0.0",
 		"jsonpath": "^1.1.1",
 		"typescript": "^5.2.2",
